@@ -9,9 +9,13 @@ And im thrilled
 to get to know him
 
 some new content
+<<<<<<< HEAD
 some testing
 
 to revert
 =======
 to get to know him
 >>>>>>> 2471a61d1a6d3ae0e9408a12fe333f9859daa120
+=======
+some testing
+>>>>>>> parent of e27fee6 (To revert)
